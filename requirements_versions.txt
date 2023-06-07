@@ -28,4 +28,3 @@ httpcore<=0.15
 fastapi==0.94.0
 tomesd==0.1.2
 segment_anything
-pycocotools
